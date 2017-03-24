@@ -1,3 +1,4 @@
 .foo {
 	display: block;
+	user-select: none;
 }
